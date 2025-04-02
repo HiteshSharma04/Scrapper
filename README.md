@@ -1,2 +1,21 @@
 # Scrapper
-It Scrap the data from a static site and give us all the information that is present on the site
+
+This project is a Python-based web scraper that extracts data from a static website and provides all the information available on that site.
+
+## Features
+
+- Scrapes content from static websites.
+- Extracts all the data available on the webpage.
+- Simple Python script that can be adapted for different websites.
+
+## Requirements
+
+- Python 3.x
+- `requests` library
+- `BeautifulSoup` (from `bs4`) for HTML parsing
+
+## Installation
+
+1. Clone or download the repository:
+   ```bash
+   git clone https://github.com/HiteshSharma04/Scrapper.git
